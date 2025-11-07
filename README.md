@@ -2,23 +2,6 @@
 
 A comprehensive full-stack car rental management system built with FastAPI, ReactJS, and Google Cloud SQL, featuring automated SDK generation and complete CI/CD support.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Quick Start](#quick-start)
-- [Detailed Setup](#detailed-setup)
-- [Running Tests](#running-tests)
-- [SDK Generation](#sdk-generation)
-- [API Documentation](#api-documentation)
-- [Business Logic](#business-logic)
-- [Google Cloud Integration](#google-cloud-integration)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-
 ## 🎯 Overview
 
 The Car Rental System is a modern, production-ready application that allows users to:
